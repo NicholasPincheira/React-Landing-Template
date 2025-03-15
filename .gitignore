@@ -1,0 +1,8 @@
+# Ignorar el archivo de entorno de Laravel
+laravel/.env
+
+# Ignorar la carpeta de dependencias de Composer
+laravel/vendor/
+
+# Ignorar la carpeta de dependencias de Node.js
+laravel/node_modules/

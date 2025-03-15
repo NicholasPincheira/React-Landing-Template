@@ -1,0 +1,1340 @@
+{
+  "_ApplicationLogo-135f9295.js": {
+    "file": "assets/ApplicationLogo-135f9295.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_AuthenticatedLayout-1d1032f4.js": {
+    "file": "assets/AuthenticatedLayout-1d1032f4.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-135f9295.js",
+      "_transition-90ccad61.js"
+    ]
+  },
+  "_GuestLayout-b65cdce6.js": {
+    "file": "assets/GuestLayout-b65cdce6.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-135f9295.js"
+    ]
+  },
+  "_InputLabel-9339867a.js": {
+    "file": "assets/InputLabel-9339867a.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_PrimaryButton-01d864da.js": {
+    "file": "assets/PrimaryButton-01d864da.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_TextInput-7f85f22b.js": {
+    "file": "assets/TextInput-7f85f22b.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_transition-90ccad61.js": {
+    "file": "assets/transition-90ccad61.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-400-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-400-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-400-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-500-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-500-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-500-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-600-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-600-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-600-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-600-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-400-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-400-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-500-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-500-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-600-normal.woff": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-600-normal.woff2": {
+    "file": "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-cyrillic-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-400-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-400-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-500-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-500-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-600-normal.woff": {
+    "file": "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-600-normal.woff2": {
+    "file": "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-400-normal.woff": {
+    "file": "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-400-normal.woff2": {
+    "file": "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-500-normal.woff": {
+    "file": "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-500-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-500-normal.woff2": {
+    "file": "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-500-normal.woff2"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-600-normal.woff": {
+    "file": "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-600-normal.woff"
+  },
+  "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-600-normal.woff2": {
+    "file": "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+    "src": "node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-vietnamese-600-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-400-normal.woff": {
+    "file": "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-400-normal.woff2": {
+    "file": "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-500-normal.woff": {
+    "file": "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-500-normal.woff2": {
+    "file": "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-400-normal.woff": {
+    "file": "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-400-normal.woff2": {
+    "file": "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-500-normal.woff": {
+    "file": "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-500-normal.woff2": {
+    "file": "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-cyrillic-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff": {
+    "file": "assets/montserrat-latin-400-normal-7f809c2f.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2": {
+    "file": "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff": {
+    "file": "assets/montserrat-latin-500-normal-cc706c0f.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2": {
+    "file": "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-400-normal.woff": {
+    "file": "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-400-normal.woff2": {
+    "file": "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-500-normal.woff": {
+    "file": "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-500-normal.woff2": {
+    "file": "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-400-normal.woff": {
+    "file": "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-400-normal.woff2": {
+    "file": "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-500-normal.woff": {
+    "file": "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-500-normal.woff2": {
+    "file": "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-vietnamese-500-normal.woff2"
+  },
+  "resources/assets/img/Home/Seccion-1/artesania.jpeg": {
+    "file": "assets/artesania-89c45b07.jpeg",
+    "src": "resources/assets/img/Home/Seccion-1/artesania.jpeg"
+  },
+  "resources/assets/img/Home/Seccion-1/gray.jpg": {
+    "file": "assets/gray-2df13da2.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/new/gray.jpg"
+  },
+  "resources/assets/img/Home/Seccion-1/joyeria.jpeg": {
+    "file": "assets/joyeria-5f06c2e8.jpeg",
+    "src": "resources/assets/img/Home/Seccion-1/joyeria.jpeg"
+  },
+  "resources/assets/img/Home/Seccion-Amuletos/Amuleto-1.png": {
+    "file": "assets/Amuleto-1-9ee54b83.png",
+    "src": "resources/assets/img/Home/Seccion-Amuletos/Amuleto-1.png"
+  },
+  "resources/assets/img/Home/Seccion-Amuletos/Amuleto-2.png": {
+    "file": "assets/Amuleto-2-83e9cfcc.png",
+    "src": "resources/assets/img/Home/Seccion-Amuletos/Amuleto-2.png"
+  },
+  "resources/assets/img/Home/Seccion-Amuletos/Amuleto-3.png": {
+    "file": "assets/Amuleto-3-bd329010.png",
+    "src": "resources/assets/img/Home/Seccion-Amuletos/Amuleto-3.png"
+  },
+  "resources/assets/img/Home/Seccion-Amuletos/Amuleto-4.png": {
+    "file": "assets/Amuleto-4-977f2903.png",
+    "src": "resources/assets/img/Home/Seccion-Amuletos/Amuleto-4.png"
+  },
+  "resources/assets/img/Home/Seccion-Amuletos/Amuleto-5.png": {
+    "file": "assets/Amuleto-5-7a266b34.png",
+    "src": "resources/assets/img/Home/Seccion-Amuletos/Amuleto-5.png"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/c2.jpg": {
+    "file": "assets/c2-ca1cc1e9.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/c2.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/j3.jpg": {
+    "file": "assets/j3-b1b48d2e.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/j3.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/j6.jpg": {
+    "file": "assets/j6-4f5bbfdd.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/j6.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/j7.jpg": {
+    "file": "assets/j7-15502f4f.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/j7.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/j8.jpg": {
+    "file": "assets/j8-5700a208.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/j8.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/jc1.jpg": {
+    "file": "assets/jc1-88e62dd4.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/jc1.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/new/aro.jpg": {
+    "file": "assets/aro-62078f2b.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/new/aro.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/new/gray.jpg": {
+    "file": "assets/gray-2df13da2.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/new/gray.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/p4.jpg": {
+    "file": "assets/p4-424e8e6b.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/p4.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Exibicion/p5.jpg": {
+    "file": "assets/p5-a25cd540.jpg",
+    "src": "resources/assets/img/Home/Seccion-Exibicion/p5.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Posts/4.jpg": {
+    "file": "assets/4-8bf6a04a.jpg",
+    "src": "resources/assets/img/Home/Seccion-Posts/4.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Posts/Mujer.jpg": {
+    "file": "assets/Mujer-5c4e44ea.jpg",
+    "src": "resources/assets/img/Home/Seccion-Posts/Mujer.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Posts/creatividad.jpg": {
+    "file": "assets/creatividad-885846bd.jpg",
+    "src": "resources/assets/img/Home/Seccion-Posts/creatividad.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Posts/embarrilado.jpg": {
+    "file": "assets/embarrilado-4f7592c3.jpg",
+    "src": "resources/assets/img/Home/Seccion-Posts/embarrilado.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Talleres/t1.jpg": {
+    "file": "assets/t1-530fcd98.jpg",
+    "src": "resources/assets/img/Home/Seccion-Talleres/t1.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Talleres/t2.jpg": {
+    "file": "assets/t2-d2bc7caf.jpg",
+    "src": "resources/assets/img/Home/Seccion-Talleres/t2.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Talleres/t3.jpg": {
+    "file": "assets/t3-36edae4c.jpg",
+    "src": "resources/assets/img/Home/Seccion-Talleres/t3.jpg"
+  },
+  "resources/assets/img/Home/Seccion-Talleres/t4.jpg": {
+    "file": "assets/t4-a0b8f7c2.jpg",
+    "src": "resources/assets/img/Home/Seccion-Talleres/t4.jpg"
+  },
+  "resources/assets/img/Home/Slider-Principal/slider-1.jpg": {
+    "file": "assets/slider-1-07f77c04.jpg",
+    "src": "resources/assets/img/Home/Slider-Principal/slider-1.jpg"
+  },
+  "resources/assets/img/Home/Slider-Principal/slider-2.jpg": {
+    "file": "assets/slider-2-39ad9549.jpg",
+    "src": "resources/assets/img/Home/Slider-Principal/slider-2.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-c9b4b26d.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/ConfirmPassword-9f3af6d8.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/ForgotPassword-32c06b5e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_TextInput-7f85f22b.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx"
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Login-84c39642.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.jsx"
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Register-9a5a50b0.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.jsx"
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/ResetPassword-25915b64.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx"
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/VerifyEmail-e892ce2f.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-b65cdce6.js",
+      "_PrimaryButton-01d864da.js",
+      "_ApplicationLogo-135f9295.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx"
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Dashboard-d1248237.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-1d1032f4.js",
+      "_ApplicationLogo-135f9295.js",
+      "_transition-90ccad61.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.jsx"
+  },
+  "resources/js/Pages/Home.css": {
+    "file": "assets/Home-149836d1.css",
+    "src": "resources/js/Pages/Home.css"
+  },
+  "resources/js/Pages/Home.jsx": {
+    "assets": [
+      "assets/slider-1-07f77c04.jpg",
+      "assets/slider-2-39ad9549.jpg",
+      "assets/artesania-89c45b07.jpeg",
+      "assets/gray-2df13da2.jpg",
+      "assets/joyeria-5f06c2e8.jpeg",
+      "assets/jc1-88e62dd4.jpg",
+      "assets/c2-ca1cc1e9.jpg",
+      "assets/j3-b1b48d2e.jpg",
+      "assets/p4-424e8e6b.jpg",
+      "assets/p5-a25cd540.jpg",
+      "assets/j6-4f5bbfdd.jpg",
+      "assets/j7-15502f4f.jpg",
+      "assets/j8-5700a208.jpg",
+      "assets/aro-62078f2b.jpg",
+      "assets/Amuleto-1-9ee54b83.png",
+      "assets/Amuleto-2-83e9cfcc.png",
+      "assets/Amuleto-3-bd329010.png",
+      "assets/Amuleto-4-977f2903.png",
+      "assets/Amuleto-5-7a266b34.png",
+      "assets/t1-530fcd98.jpg",
+      "assets/t2-d2bc7caf.jpg",
+      "assets/t3-36edae4c.jpg",
+      "assets/t4-a0b8f7c2.jpg",
+      "assets/Mujer-5c4e44ea.jpg",
+      "assets/creatividad-885846bd.jpg",
+      "assets/embarrilado-4f7592c3.jpg",
+      "assets/4-8bf6a04a.jpg",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/Home-149836d1.css",
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Home-d66b5e4c.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Home.jsx"
+  },
+  "resources/js/Pages/Profile/Edit.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Edit-15551543.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-1d1032f4.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+      "_ApplicationLogo-135f9295.js",
+      "_transition-90ccad61.js",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Edit.jsx"
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/DeleteUserForm-63a9c5a5.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_transition-90ccad61.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx"
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/UpdatePasswordForm-a6c8a280.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_transition-90ccad61.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx"
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/UpdateProfileInformationForm-464e9c2d.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-7f85f22b.js",
+      "_InputLabel-9339867a.js",
+      "_PrimaryButton-01d864da.js",
+      "_transition-90ccad61.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx"
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "file": "assets/Welcome-fb47ad19.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Welcome.jsx"
+  },
+  "resources/js/app.jsx": {
+    "assets": [
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-4d4c1050.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-400-normal-3b20cb38.woff",
+      "assets/cormorant-garamond-cyrillic-400-normal-38786b5c.woff2",
+      "assets/cormorant-garamond-cyrillic-400-normal-4fc14d6d.woff",
+      "assets/cormorant-garamond-vietnamese-400-normal-59f26d68.woff2",
+      "assets/cormorant-garamond-vietnamese-400-normal-b81a85b3.woff",
+      "assets/cormorant-garamond-latin-ext-400-normal-e1abbac1.woff2",
+      "assets/cormorant-garamond-latin-ext-400-normal-c5c0e97c.woff",
+      "assets/cormorant-garamond-latin-400-normal-a9ff7df6.woff2",
+      "assets/cormorant-garamond-latin-400-normal-de615a59.woff",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-9404064a.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-500-normal-379fdd8f.woff",
+      "assets/cormorant-garamond-cyrillic-500-normal-b4acd5ce.woff2",
+      "assets/cormorant-garamond-cyrillic-500-normal-c9712a6d.woff",
+      "assets/cormorant-garamond-vietnamese-500-normal-d9a0eba0.woff2",
+      "assets/cormorant-garamond-vietnamese-500-normal-9b9b0de8.woff",
+      "assets/cormorant-garamond-latin-ext-500-normal-493ef431.woff2",
+      "assets/cormorant-garamond-latin-ext-500-normal-15fbc393.woff",
+      "assets/cormorant-garamond-latin-500-normal-991c8aba.woff2",
+      "assets/cormorant-garamond-latin-500-normal-50eee1af.woff",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-64cc925f.woff2",
+      "assets/cormorant-garamond-cyrillic-ext-600-normal-e4fe3b31.woff",
+      "assets/cormorant-garamond-cyrillic-600-normal-c347ced6.woff2",
+      "assets/cormorant-garamond-cyrillic-600-normal-3b47d99c.woff",
+      "assets/cormorant-garamond-vietnamese-600-normal-e8945636.woff2",
+      "assets/cormorant-garamond-vietnamese-600-normal-bf2321e2.woff",
+      "assets/cormorant-garamond-latin-ext-600-normal-df498261.woff2",
+      "assets/cormorant-garamond-latin-ext-600-normal-f72a8742.woff",
+      "assets/cormorant-garamond-latin-600-normal-066ec1ac.woff2",
+      "assets/cormorant-garamond-latin-600-normal-b1450b51.woff",
+      "assets/montserrat-cyrillic-ext-400-normal-71a5a86d.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-c863f18c.woff",
+      "assets/montserrat-cyrillic-400-normal-232172c3.woff2",
+      "assets/montserrat-cyrillic-400-normal-e0799acf.woff",
+      "assets/montserrat-vietnamese-400-normal-541424c4.woff2",
+      "assets/montserrat-vietnamese-400-normal-b2135595.woff",
+      "assets/montserrat-latin-ext-400-normal-4a1350a2.woff2",
+      "assets/montserrat-latin-ext-400-normal-355a4218.woff",
+      "assets/montserrat-latin-400-normal-1c9c85d0.woff2",
+      "assets/montserrat-latin-400-normal-7f809c2f.woff",
+      "assets/montserrat-cyrillic-ext-500-normal-08a7fb0c.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-93f02b46.woff",
+      "assets/montserrat-cyrillic-500-normal-b4d83bb7.woff2",
+      "assets/montserrat-cyrillic-500-normal-ca06c932.woff",
+      "assets/montserrat-vietnamese-500-normal-913e441c.woff2",
+      "assets/montserrat-vietnamese-500-normal-46135b68.woff",
+      "assets/montserrat-latin-ext-500-normal-5bdcf40a.woff2",
+      "assets/montserrat-latin-ext-500-normal-177e32af.woff",
+      "assets/montserrat-latin-500-normal-0aabcea5.woff2",
+      "assets/montserrat-latin-500-normal-cc706c0f.woff"
+    ],
+    "css": [
+      "assets/app-c9b4b26d.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Home.jsx",
+      "resources/js/Pages/Profile/Edit.jsx",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+      "resources/js/Pages/Welcome.jsx"
+    ],
+    "file": "assets/app-32834012.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}
